@@ -1,1 +1,3 @@
 # DummiesJavaFX
+
+For learning purposes
